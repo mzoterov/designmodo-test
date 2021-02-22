@@ -1,0 +1,74 @@
+
+@font-face {
+    font-family: 'Fira Sans';
+    src: url('FiraSans-Medium.eot');
+    src: local('Fira Sans Medium'), local('FiraSans-Medium'),
+    url('FiraSans-Medium.eot?#iefix') format('embedded-opentype'),
+    url('FiraSans-Medium.woff2') format('woff2'),
+    url('FiraSans-Medium.woff') format('woff'),
+    url('FiraSans-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Fira Sans';
+    src: url('FiraSans-MediumItalic.eot');
+    src: local('Fira Sans Medium Italic'), local('FiraSans-MediumItalic'),
+    url('FiraSans-MediumItalic.eot?#iefix') format('embedded-opentype'),
+    url('FiraSans-MediumItalic.woff2') format('woff2'),
+    url('FiraSans-MediumItalic.woff') format('woff'),
+    url('FiraSans-MediumItalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+}
+
+
+@font-face {
+    font-family: 'Inter';
+    src: url('Inter-MediumItalic.eot');
+    src: local('Inter Medium Italic'), local('Inter-MediumItalic'),
+    url('Inter-MediumItalic.eot?#iefix') format('embedded-opentype'),
+    url('Inter-MediumItalic.woff2') format('woff2'),
+    url('Inter-MediumItalic.woff') format('woff'),
+    url('Inter-MediumItalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Inter';
+    src: url('Inter-Medium.eot');
+    src: local('Inter Medium'), local('Inter-Medium'),
+    url('Inter-Medium.eot?#iefix') format('embedded-opentype'),
+    url('Inter-Medium.woff2') format('woff2'),
+    url('Inter-Medium.woff') format('woff'),
+    url('Inter-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Inter';
+    src: url('Inter-MediumItalic.eot');
+    src: local('Inter Medium Italic'), local('Inter-MediumItalic'),
+    url('Inter-MediumItalic.eot?#iefix') format('embedded-opentype'),
+    url('Inter-MediumItalic.woff2') format('woff2'),
+    url('Inter-MediumItalic.woff') format('woff'),
+    url('Inter-MediumItalic.ttf') format('truetype');
+    font-weight: 400;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Inter';
+    src: url('Inter-Medium.eot');
+    src: local('Inter Medium'), local('Inter-Medium'),
+    url('Inter-Medium.eot?#iefix') format('embedded-opentype'),
+    url('Inter-Medium.woff2') format('woff2'),
+    url('Inter-Medium.woff') format('woff'),
+    url('Inter-Medium.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+

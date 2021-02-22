@@ -1,0 +1,18 @@
+@import url("./Fonts/stylesheet.css");
+
+:root {
+    --header_background: #071c26;
+    --positive_color: #2AC45D;
+    --active_color: #13A4EC;
+    --icon_color: #AAB2BB;
+    --highlight_opacity: 0.3;
+    --highlight_color: rgba(86, 204, 242, var(--highlight_opacity));
+    --popup_color: #2D3A41;
+    --popup_shadow: 0px 10px 12px rgba(0, 0, 0, 0.12), 0px 0px 2px rgba(169, 179, 187, 0.5);
+    --body_color: #F4F4F4;
+
+    /* Font */
+    --bold_text_weight: 700;
+    --text_weight: 400;
+    --font_family: Inter;
+}
