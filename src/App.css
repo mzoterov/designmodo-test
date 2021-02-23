@@ -112,8 +112,8 @@ a {
 .container {
     width: 608px;
     background: white;
-    height: 717px;
-
+    min-height: 717px;
+    margin-bottom: 40px;
     transition: height 1s ease;
 }
 
@@ -129,7 +129,7 @@ a {
 
 .container_text {
     width: 548px;
-    height: 650px;
+    min-height: 650px;
     word-break: break-word;
     background: none;
     border: none;
